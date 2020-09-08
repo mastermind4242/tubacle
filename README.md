@@ -3,7 +3,7 @@ Tubaclecoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/tubaclecoin-project/tubaclecoin.svg?branch=master)](https://travis-ci.org/tubaclecoin-project/tubaclecoin)
 
-https://tubaclecoin.org
+https://tubacle.com
 
 What is Tubaclecoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Tubaclecoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Tubaclecoin Core software, see [https://tubaclecoin.org](https://tubaclecoin.org).
+the Tubaclecoin Core software, see [https://tubacle.com](https://tubacle.com).
 
 License
 -------
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/tubaclecoin-project/tubaclecoin/tags) are created
+completely stable. [Tags](https://github.com/mastermind4242/tubacle/tags) are created
 regularly to indicate new official, stable release versions of Tubaclecoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

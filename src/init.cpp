@@ -531,8 +531,8 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/tubaclecoin-project/tubaclecoin>";
-    const std::string URL_WEBSITE = "<https://tubaclecoin.org>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/mastermind4242/tubacle>";
+    const std::string URL_WEBSITE = "<https://tubacle.com>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

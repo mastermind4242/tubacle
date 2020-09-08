@@ -33,7 +33,7 @@ Build Tubaclecoin Core
 
 1. Clone the tubaclecoin source code and cd into `tubaclecoin`
 
-        git clone https://github.com/tubaclecoin-project/tubaclecoin
+        git clone https://github.com/mastermind4242/tubacle
         cd tubaclecoin
 
 2.  Build tubaclecoin-core:

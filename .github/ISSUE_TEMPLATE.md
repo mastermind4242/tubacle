@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to tubaclecoin-core.
 
 General tubaclecoin questions and/or support requests and are best directed to the [tubaclecointalk.io forums](https://tubaclecointalk.io/).
 
-For reporting security issues, please contact the Tubaclecoin developers on the #tubaclecoin-dev Freenode IRC channel or alternatively you can email us at contact@tubaclecoin.org.
+For reporting security issues, please contact the Tubaclecoin developers on the #tubaclecoin-dev Freenode IRC channel or alternatively you can email us at contact@tubacle.com.
 
 ### Describe the issue
 

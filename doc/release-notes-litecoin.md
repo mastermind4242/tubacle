@@ -1,13 +1,13 @@
 Tubaclecoin Core version *0.15.1* is now available from:
 
-  <https://download.tubaclecoin.org/tubaclecoin-0.15.1/>
+  <https://download.tubacle.com/tubaclecoin-0.15.1/>
 
 This is a new minor version release, including various bugfixes and
 performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/tubaclecoin-project/tubaclecoin/issues>
+  <https://github.com/mastermind4242/tubacle/issues>
 
 To receive security and update notifications, please subscribe to:
 

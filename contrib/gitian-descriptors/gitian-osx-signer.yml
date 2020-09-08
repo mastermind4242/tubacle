@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/tubaclecoin-project/tubaclecoin-detached-sigs.git"
+- "url": "https://github.com/mastermind4242/tubacle-detached-sigs.git"
   "dir": "signature"
 files:
 - "tubaclecoin-osx-unsigned.tar.gz"

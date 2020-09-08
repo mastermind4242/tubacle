@@ -1,13 +1,13 @@
 Tubaclecoin Core version 0.10.2.2 is now available from:
 
-  <https://download.tubaclecoin.org/tubaclecoin-0.10.2.2/>
+  <https://download.tubacle.com/tubaclecoin-0.10.2.2/>
 
 This is a new major version release, bringing bug fixes and translation 
 updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/tubaclecoin-project/tubaclecoin/issues>
+  <https://github.com/mastermind4242/tubacle/issues>
 
 Upgrading and downgrading
 =========================
