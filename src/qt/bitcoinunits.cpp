@@ -42,7 +42,7 @@ QString BitcoinUnits::name(int unit)
     {
     case BTC: return QString("TLC");
     case mBTC: return QString("mTLC");
-    case uBTC: return QString("uTLC");
+    case uBTC: return QString("μTLC");
     default: return QString("???");
     }
 }
