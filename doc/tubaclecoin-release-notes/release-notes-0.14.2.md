@@ -46,18 +46,6 @@ This only affects users that have explicitly enabled UPnP through the GUI settin
 
 If you use this option, it is recommended to upgrade to this version as soon as possible.
 
-Reset Testnet
--------------
-
-Testnet3 has been deprecated and replaced with Testnet4. The server port has been changed to 19335 however the RPC port remains
-the same (19332).
-
-Testnet faucets can be located at:
-- http://testnet.tubaclecointools.com
-- http://testnet.thrasher.io
-
-Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/mastermind4242/tubacle/blob/master/src/chainparams.cpp#L220).
-
 Performance Improvements
 --------------
 
